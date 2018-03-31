@@ -11,7 +11,7 @@
 #include <cstdio>
 #include <algorithm>
 
-#include <malloc.h>
+#include <stdlib.h>
 
 #include <omp.h>
 
